@@ -44,16 +44,20 @@ The class will meet in Agriculture Building Room 316 between 9AM and 12PM MDT on
 
 <br>
 
-## Module 1 (February 9, 2022)
+## Module 1 & 2 (February 9 & 16, 2022)
 
-- [Tools for Reproducible Research](Module_1/git/git.html)
+- [Tools for Reproducible Research](Module_1-2/git/git.html)
 
-- [Data Manipulation in R](Module_1/EDA/R_Data_manip.html)
+- [Data Manipulation in R](Module_1-2/EDA/R_Data_manip.html)
 
-- [Exploratory Data Visualization](Module_1/EDA/Fish_dat_exp.html)
+- [Exploratory Data Visualization](Module_1-2/EDA/Fish_dat_exp.html)
 
-- [Using RMarkdown To Compile Notebooks](Module_1/rmd/rmd.html)
+- [Using RMarkdown To Compile Notebooks](Module_1-2/rmd/rmd.html)
 
+
+## Module 3 (February 23, 2022)
+
+- [Human Genome Variation](Module_3/snpvar.html)
 
 <br><br><br><br>
 <br><br><br><br>
